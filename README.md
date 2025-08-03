@@ -1,6 +1,7 @@
+## Janis Zaldin
 
 
-Full-Stack Developer | SaaS Specialist | DevOps Enthusiast
+Full-Stack Developer | SaaS Specialist | DevOps Enthusiast | Queen of Her Own Playground
 
 Building intelligent web applications with React/Next.js, Node.js, and cloud infrastructure. Passionate about creating seamless user experiences through robust backend systems and modern frontend technologies.
 
